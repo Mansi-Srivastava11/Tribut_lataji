@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #fbe1b0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#name{
+    text-align: center;
+    text-decoration: dotted;
+    font-size: 100px;
+    text-shadow: 4px 4px 3px white;
+}
+#title{
+    text-align: center;
+    font-size: 40px;
+    color: #000000;
+    text-shadow: 2px 2px 3px #f2a30a;
+}
+#image{
+    width:500px;
+    height:450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#dob{
+    font-weight: bold; 
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+}
+div{
+    border: 8px solid black;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#legend{
+    padding-top: 5px;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    color: #025e3c;
+    text-shadow: 2px 2px 3px white;
+}
+#about{
+    text-align: justify;
+    margin: 45px ;
+    padding-left: 20px;
+    padding-right: 20px;   
+}
+#about li{
+    font-size: 20px;
+
+}
